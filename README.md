@@ -1,1 +1,1 @@
-this is the first odin project for the odin corriculum it shows i can gollow git  workflow 
+this is the first odin project for the odin corriculum it shows i can follow git  workflow 
